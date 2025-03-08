@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Germogli di Matematica 🌱",
+    pageTitle: "Germogli di Matematica🌱",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
