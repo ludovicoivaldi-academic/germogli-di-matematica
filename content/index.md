@@ -20,8 +20,6 @@ Per chi inizia a studiare matematica da autodidatta, consiglio questo video:
 
 Cercherò di mantenere un indice con gli argomenti principali.
 
-Potete inoltre usare la sezione "esplora" e la vista a grafo.
-
 ### Algebra:
 - Algebra lineare
 - Algebra I

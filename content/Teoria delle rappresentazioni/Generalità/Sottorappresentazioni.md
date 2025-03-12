@@ -31,7 +31,7 @@ In questi sottospazi è ben definita, per ogni $g$ elemento di $G$, la restrizio
 > [!success] Definizione
 > Sia $\rho: G \to GL(V)$ rappresentazione e $W$ sottospazio stabile per $G$, chiamiamo $\rho^W: G \to GL(W)$ la rappresentazione data da $\rho^W(g) \coloneqq \rho_g \vert_W^W$ , detta **sottorappresentazione di $V$**.
 
-### Forme hermitiane
+## Forme hermitiane
 
 Presa una rappresentazione lineare, vorremmo costruire un prodotto hermitiano sullo spazio di rappresentazione per cui gli automorfismi della rappresentazione si "comportano bene", per esempio sono sempre diagonalizzabili, preservano l'ortogonalità e le distanze.
 Enunciamo quindi il nostro primo teorema:
@@ -86,7 +86,7 @@ Se chiamiamo $V = W \oplus W^0$ **fattorizzazione** di $V$, è abbastanza intuit
 Vediamo subito un teorema che ne giustifica l'importanza:
 
 > [!danger] Teorema (di Maschke)
-> Ogni rappresentazione è somma diretta di rappresentazioni irriducibili
+> Ogni rappresentazione è somma diretta di rappresentazioni irriducibili.
 
 > [!note]- Dimostrazione
 > La dimostrazione si può fare per induzione sul grado della rappresentazione.
