@@ -1,3 +1,9 @@
+---
+tags:
+  - teoria_rappresentazioni
+  - generalità
+---
+
 ## Richiami
 
 Diamo alcuni richiami sul [prodotto tensoriale](https://www.wikiwand.com/en/articles/Tensor_product) di spazi vettoriali.
